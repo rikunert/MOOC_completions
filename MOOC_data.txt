@@ -1,0 +1,218 @@
+﻿Course	Platform	Start date	End date	Number enrolled	Number completed	% completed	Assessment type	Data source
+ABC de la Gestion de Projet	Canvas.net	2013		10848	6501	60	Auto and peer grading	https://docs.google.com/spreadsheets/d/1Ljb659QSMD9ljfnFPbWsKYNGhOBM6yKSv8s-hVzltBc/edit#gid=1
+ABC de la Gestion de Projet	Canvas.net	Unknown		3493	1821	52.1	Auto and peer grading	https://docs.google.com/spreadsheet/ccc?key=0AiIQsNq53QmIdFduUk9RUFVZNDZ5SHFGSTRFUUpNLWc&hl=fr&forcehl=1#gid=1
+Early Childhood Education	Open2Study	2013		1494	622	41.6	Auto grading only	https://www.open2study.com/research/download/575
+Understanding Dementia	Desire2Learn	2013		9267	3624	39.1	Auto grading only	http://www.utas.edu.au/wicking/wca/mooc/data/
+HLS1X: CopyrightX	EdX	2013		500	193	38.6	Unknown	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382332
+Equine Nutrition	Coursera	2013		23322	8416	36.1	Auto grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+Introduction to Business in Asia	Open2Study	2013		682	244	35.8	Auto grading only	https://www.open2study.com/research/download/417
+Financial Planning	Open2Study	2013		440	155	35.2	Auto grading only	https://www.open2study.com/research/download/417
+Introduction to Nursing in Healthcare	Open2Study	2013		252	87	34.5	Auto grading only	https://www.open2study.com/research/download/575
+Teaching Adult Learners	Open2Study	2013		385	132	34.3	Auto grading only	https://www.open2study.com/research/download/417
+Astronomy - Discovering the Universe	Open2Study	2013		1574	534	33.9	Auto grading only	https://www.open2study.com/research/download/417
+Understanding the Origins of Crime	Open2Study	2013		1180	397	33.6	Auto grading only	https://www.open2study.com/research/download/575
+Teaching Adult Learners	Open2Study	2013		551	183	33.2	Auto grading only	https://www.open2study.com/research/download/575
+Teaching Adult Learners	Open2Study	2013		756	250	33.1	Auto grading only	https://www.open2study.com/research/download/417
+Becoming Human - Anthropology	Open2Study	2013		574	187	32.6	Auto grading only	https://www.open2study.com/research/download/575
+Sicherheit im Internet	OpenHPI	2014		11284	3631	32.2	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Financial Literacy	Open2Study	2013		1168	376	32.2	Auto grading only	https://www.open2study.com/research/download/417
+Strategic Management	Open2Study	2013		589	189	32.1	Auto grading only	https://www.open2study.com/research/download/417
+Financial Literacy	Open2Study	2013		733	226	30.8	Auto grading only	https://www.open2study.com/research/download/575
+Foundations of Psychology	Open2Study	2013		1026	314	30.6	Auto grading only	https://www.open2study.com/research/download/575
+Education in a Changing World	Open2Study	2013		599	178	29.7	Auto grading only	https://www.open2study.com/research/download/417
+Becoming Human - Anthropology	Open2Study	2013		433	127	29.3	Auto grading only	https://www.open2study.com/research/download/417
+Sports and Recreation Management	Open2Study	2013		192	56	29.2	Auto grading only	https://www.open2study.com/research/download/417
+Management for a Competitive Edge	Open2Study	2013		391	112	28.6	Auto grading only	https://www.open2study.com/research/download/417
+Strategic Management	Open2Study	2013		972	276	28.4	Auto grading only	https://www.open2study.com/research/download/575
+H817Open - an open course in open education	Independent	2013		1710	485	28.3	Unknown	http://nogoodreason.typepad.co.uk/no_good_reason/h817open/
+AbiertaUGR	Independent	Unknown		3051	843	27.6	Unknown	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-1101
+Spielend Programmieren Lernen	OpenHPI	2014		9195	2516	27.4	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Food, Nutrition and Your Health	Open2Study	2013		1149	312	27.2	Auto grading only	https://www.open2study.com/research/download/575
+Strategic Management	Open2Study	2013		932	253	27.1	Auto grading only	https://www.open2study.com/research/download/417
+Financial Planning	Open2Study	2013		599	160	26.7	Auto grading only	https://www.open2study.com/research/download/575
+Introduction to Nursing in Healthcare	Open2Study	2013		225	60	26.7	Auto grading only	https://www.open2study.com/research/download/417
+Becoming Human - Anthropology	Open2Study	2013		707	188	26.6	Auto grading only	https://www.open2study.com/research/download/417
+Introduction to Nursing in Healthcare	Open2Study	2013		415	110	26.5	Auto grading only	https://www.open2study.com/research/download/417
+Education in a Changing World	Open2Study	2013		351	93	26.5	Auto grading only	https://www.open2study.com/research/download/575
+M102 - MongoDB for DBAs	10gen	2013		6440	1701	26.4	Auto grading only	http://ed-blog.mongodb.com/post/45633265124/m101p-and-m102-completion-stats-spring-2013
+Food, Nutrition and Your Health	Open2Study	2013		1839	485	26.4	Auto grading only	https://www.open2study.com/research/download/417
+Writing for the Web	Open2Study	2013		1065	281	26.4	Auto grading only	https://www.open2study.com/research/download/417
+Becoming Human - Anthropology	Open2Study	2013		867	227	26.2	Auto grading only	https://www.open2study.com/research/download/417
+Astronomy - Discovering the Universe	Open2Study	2013		776	202	26	Auto grading only	https://www.open2study.com/research/download/575
+Food, Nutrition and Your Health	Open2Study	2013		732	189	25.8	Auto grading only	https://www.open2study.com/research/download/417
+Foundations of Psychology	Open2Study	2013		1364	352	25.8	Auto grading only	https://www.open2study.com/research/download/417
+Foundations of Psychology	Open2Study	2013		634	163	25.7	Auto grading only	https://www.open2study.com/research/download/417
+Financial Literacy	Open2Study	2013		536	138	25.7	Auto grading only	https://www.open2study.com/research/download/417
+Financial Planning	Open2Study	2013		1678	429	25.6	Auto grading only	https://www.open2study.com/research/download/417
+Writing for the Web	Open2Study	2013		1049	269	25.6	Auto grading only	https://www.open2study.com/research/download/575
+Introduction to Business in Asia	Open2Study	2013		454	115	25.3	Auto grading only	https://www.open2study.com/research/download/575
+Sichere E-Mail	OpenHPI	2015		5846	1462	25	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Management for a Competitive Edge	Open2Study	2013		769	192	25	Auto grading only	https://www.open2study.com/research/download/417
+ABC de la Gestion de Projet	Canvas.net	Unknown		11827	2927	24.7	Auto and peer grading	http://fr.slideshare.net/bachelet/mooc-gd-p-69-barcamp-emoocs2015
+Food, Nutrition and Your Health	Open2Study	2013		1027	253	24.6	Auto grading only	https://www.open2study.com/research/download/417
+Financial Planning	Open2Study	2013		568	139	24.5	Auto grading only	https://www.open2study.com/research/download/417
+Principles of Project Management	Open2Study	2013		1509	370	24.5	Auto grading only	https://www.open2study.com/research/download/575
+Sports and Recreation Management	Open2Study	2013		168	41	24.4	Auto grading only	https://www.open2study.com/research/download/575
+Writing for the Web	Open2Study	2013		792	193	24.4	Auto grading only	https://www.open2study.com/research/download/417
+Principles of Project Management	Open2Study	2013		954	229	24	Auto grading only	https://www.open2study.com/research/download/417
+Diagnosing the Financial Health of a Business	Open2Study	2013		914	218	23.9	Auto grading only	https://www.open2study.com/research/download/417
+Becoming a Confident Trainer	Open2Study	2013		1172	278	23.7	Auto grading only	https://www.open2study.com/research/download/575
+Web-Technologien	OpenHPI	2013		7350	1726	23.5	Auto grading only	https://blog.openhpi.de/2013/08/statistiken-zur-abschlussrate/
+Writing for the Web	Open2Study	2013		1526	358	23.5	Auto grading only	https://www.open2study.com/research/download/417
+Introduction to Nursing in Healthcare	Open2Study	2013		515	120	23.3	Auto grading only	https://www.open2study.com/research/download/417
+Introduction to software development	OpenSAP	2013		40386	9383	23.2	Auto grading only	https://open.sap.com/blog/hana1-key-metrics/
+Principles of Project Management	Open2Study	2013		2293	528	23	Auto grading only	https://www.open2study.com/research/download/417
+Strategic Management	Open2Study	2013		1395	321	23	Auto grading only	https://www.open2study.com/research/download/417
+Introduction to Enterprise Architecture	Open2Study	2013		2049	467	22.8	Auto grading only	https://www.open2study.com/research/download/417
+Diagnosing the Financial Health of a Business	Open2Study	2013		646	147	22.8	Auto grading only	https://www.open2study.com/research/download/575
+Good Brain, Bad Brain: Basics	Futurelearn	Unknown		11417	2577	22.6	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Principles of Project Management	Open2Study	2013		1568	351	22.4	Auto grading only	https://www.open2study.com/research/download/417
+Sports and Recreation Management	Open2Study	2013		95	21	22.1	Auto grading only	https://www.open2study.com/research/download/417
+Big Data for Better Performance	Open2Study	2013		761	165	21.7	Auto grading only	https://www.open2study.com/research/download/575
+Datenmanagement mit SQL	OpenHPI	2013		7611	1641	21.6	Auto grading only	https://blog.openhpi.de/2013/08/statistiken-zur-abschlussrate/
+Introduction to Enterprise Architecture	Open2Study	2013		1191	257	21.6	Auto grading only	https://www.open2study.com/research/download/575
+ABC de la Gestion de Projet	Canvas.net	Unknown		19171	4092	21.3	Auto and peer grading	http://fr.slideshare.net/bachelet/mooc-gd-p-69-barcamp-emoocs2015
+First Year Teaching (Elementary Grades) - Success from the Start	Coursera	2013		16000	4185	21.2	Peer grading only	https://www.edsurge.com/n/2013-10-14-coursera-teaches-teachers-anywhere-anytime
+M101P - MongoDB for Developers	10gen	2013		6627	1405	21.2	Auto grading only	http://ed-blog.mongodb.com/post/45633265124/m101p-and-m102-completion-stats-spring-2013
+M102 - MongoDB for DBAs	10gen	2013		6557	1377	21	Auto grading only	http://ed-blog.mongodb.com/post/53762857755/completion-stats-for-m102-mongodb-for-dbas-april-june
+Online Advertising	Open2Study	2013		1342	279	20.8	Auto grading only	https://www.open2study.com/research/download/575
+User Experience for the Web	Open2Study	2013		1502	313	20.8	Auto grading only	https://www.open2study.com/research/download/417
+Big Data for Better Performance	Open2Study	2013		1083	224	20.7	Auto grading only	https://www.open2study.com/research/download/417
+User Experience for the Web	Open2Study	2013		638	132	20.7	Auto grading only	https://www.open2study.com/research/download/417
+Sports and Recreation Management	Open2Study	2013		253	52	20.6	Auto grading only	https://www.open2study.com/research/download/417
+Big Data for Better Performance	Open2Study	2013		573	117	20.4	Auto grading only	https://www.open2study.com/research/download/417
+User Experience for the Web	Open2Study	2013		934	189	20.2	Auto grading only	https://www.open2study.com/research/download/417
+Good Brain, Bad Brain: Parkinson’s Disease	Futurelearn	2014		5888	1166	19.8	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Management for a Competitive Edge	Open2Study	2013		1305	259	19.8	Auto grading only	https://www.open2study.com/research/download/417
+Astrobiology	Coursera	2013		39556	7707	19.5	Auto grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+Functional Programming Principles in Scala	Coursera	2012		50000	9593	19.2	Auto grading only	http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html
+M102 - MongoDB for DBAs	10gen	2012		10105	1903	19	Auto grading only	http://ed-blog.mongodb.com/post/39477999927/m102-completion-stats
+M101P - MongoDB for Developers	10gen	2012		21116	3976	19	Auto grading only	http://ed-blog.mongodb.com/post/38413879802/m101-completion-stats
+How to Read a Mind	Futurelearn	2014		14316	2720	19	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Introduction to Forensic Science	Futurelearn	2014		26725	4426	16.6	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Aboriginal Worldviews and Education	Coursera	2013		20966	3381	16.1	Auto and peer grading	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf
+Fairness and Nature: When Worlds Collide	Futurelearn	2014		5549	886	16	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+ABC de la Gestion de Projet	Canvas.net	Unknown		17579	2785	15.8	Auto and peer grading	http://fr.slideshare.net/bachelet/mooc-gd-p-69-barcamp-emoocs2015
+Stat2.1x Introduction to Statistics - Descriptive Statistics	EdX	2013		52661	8181	15.5	Auto grading only	http://stat2x.blogspot.co.uk/
+In Memory Data Management	OpenHPI	Unknown		16327	2442	15	Auto grading only	https://blog.openhpi.de/2013/08/statistiken-zur-abschlussrate/
+Astronomy - State of the Art	Udemy	2013		4400	660	15	Unknown	http://uanews.org/story/more-than-4-400-taking-ua-astronomy-class-online
+Introduction to Ecosystems	Futurelearn	Unknown		11274	1660	14.7	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Internetworking mit TCP/IP	OpenHPI	Unknown		11492	1662	14.5	Auto grading only	https://blog.openhpi.de/2013/08/statistiken-zur-abschlussrate/
+Parallel Programming Concepts	OpenHPI	2014		7816	1118	14.3	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Energy 101	EdX	2013		35000	4707	13.4	Unknown	http://www.linkedin.com/in/jgarcia3rd
+Inside Cancer: How Genes Influence Cancer Development	Futurelearn	Unknown		7855	1041	13.3	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Internetworking with TCP/IP	OpenHPI	2014		6531	834	12.8	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Understanding Drugs and Addiction	Futurelearn	2014		11620	1478	12.7	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Muslims in Britain: Changes and Challenges	Futurelearn	2014		6545	825	12.6	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Computing for Data Analysis	Coursera	2012		50899	6420	12.6	Auto grading only	http://simplystatistics.org/2012/10/29/computing-for-data-analysis-simply-statistics-edition/
+Startup Boards - Advanced Entrepreneurship	NovoEd	2012		80000	10000	12.5	Unknown	http://gigaom.com/2013/04/15/novoed-another-stanford-mooc-startup-opens-small-group-learning-services-to-public/
+Introduction to Machine Learning	Coursera	2011		104000	13000	12.5	Auto grading only	http://www.theatlantic.com/business/archive/2012/05/the-big-idea-that-can-revolutionize-higher-education-mooc/256926/
+Introduction to Artificial Intelligence	Udacity	2011		160000	20000	12.5	Auto grading only	http://fm.schmoller.net/2012/07/peter-norvigs-ted-talk-about-the-ai-course.html#more
+Semantic Web Technologies	OpenHPI	2013		6492	784	12.1	Auto grading only	https://blog.openhpi.de/2013/08/statistiken-zur-abschlussrate/
+Ser más creativos	Coursera	2013		51833	6180	11.9	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-1028
+Learn to Program - The Fundamentals	Coursera	2012 and 2013		66510 and 80000	7839 and 8240	10.3 and 11.8	Auto grading only	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf and http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-1090
+14.73x The Challenges of Global Poverty	EdX	2013		39759	4597	11.6	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382296
+Online Reputation for Career Success	Canvas.net	2013		300	34	11.4	Peer grading only	http://www.mchenry.edu/news/ViewMccNewsById.asp?NewsId=3886
+Databases	Coursera	2011		60000	6500	10.8	Auto grading only	http://wp.sigmod.org/?p=165
+Sustainability, Society and You	Futurelearn	Unknown		8727	941	10.8	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+A Brief Introduction to Data Science with R	Independent	2013		856	91	10.6	Auto grading only	http://ischool.syr.edu/newsroom/news.aspx?recid=1439
+The Mind is Flat: The Shocking Shallowness of Human Psychology	Futurelearn	2014		10062	1061	10.5	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+In-Memory Data Management	OpenHPI	2014		9819	1030	10.5	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Improving Your Image: Dental Photography in Practice	Futurelearn	Unknown		2403	250	10.4	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Image and video processing - From Mars to Hollywood with a stop at the hospital	Coursera	2013		40000	4069	10.2	Auto grading only	http://cit.duke.edu/blog/2013/06/looking-back-on-image-and-video-processing/
+Internet History, Technology and Security	Coursera	2012		46000	4595	10.1	Auto and peer grading	http://www.slideshare.net/fullscreen/csev/internet-history-technology-and-security-grand-finale-lecture-20121001/7
+Gamification	Coursera	2012		81600	8280	10.1	Auto and peer grading	http://www.youtube.com/watch?v=NrFmiqhBep4
+Climate Change: Challenges and Solutions	Futurelearn	2014		16222	1635	10.1	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Exploring Anatomy: The Human Abdomen	Futurelearn	2014		8581	831	9.7	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Introduction to Philosophy	Coursera	2013		98128	9445	9.6	Auto grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+Mathematical Biostatistics Bootcamp	Coursera	2013		21916	2087	9.5	Auto grading only	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-537
+Critical Thinking	Coursera	2013		75884	6909	9.1	Auto grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+7.00x Introduction to Biology	EdX	2013		37977	3235	8.5	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382325
+Gamification	Coursera	2013		66438	5592	8.4	Auto and peer grading	http://www.youtube.com/watch?v=E8_3dNEMukQ&feature=youtu.be
+Sports and Society	Coursera	2013		19281	1626	8.4	Auto grading only	http://cit.duke.edu/blog/2013/07/duke-sports-and-society-mooc-wraps-up/
+The Discovery of the Higgs Boson	Futurelearn	2014		16965	1425	8.4	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+PH207x: Health in Numbers	EdX	2012		61181	5058	8.3	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382242
+Semantic Web Technologies	OpenHPI	2014		5851	448	7.7	Unknown	https://blog.openhpi.de/2015/03/a-look-ahead-and-back/
+Introduction to Databases	Class2go	2013		64127	4854	7.6	Auto grading only	http://sef.kloninger.com/2013/03/online-ed-retention/
+3.091x Introduction to solid state chemistry	EdX	2012		28512	2082	7.3	Auto grading only	http://web.mit.edu/newsoffice/2013/mitx-spring-offerings-0131.html
+Introduction to Mathematical Thinking	Coursera	2013		27930	1950	7	Auto and peer grading	http://fm.schmoller.net/2013/06/second-report-from-keith-devlins-itmt-course.html
+Introduction to Inforgraphics and Data Visualization	Independent	2012		2000	140	7	Auto grading only	http://www.educationnews.org/online-schools/journalism-schools-experimenting-with-online-learning/
+Software Engineering for SaaS	Coursera	2012		50000	3500	7	Auto grading only	http://www.theatlantic.com/technology/archive/2012/07/what-its-like-to-teach-a-mooc-and-what-the-hecks-a-mooc/260000/
+JusticeX	EdX	2013		79787	5442	6.8	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382248
+6.00x Introduction to Computer Science and Programming	EdX	2012		84511	5732	6.8	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382288
+Crafting an Effective Writer: Tools of the Trade	Coursera	2013		40000	2700	6.8	Auto and peer grading	http://wcetblog.wordpress.com/2013/08/06/creating-an-effective-mooc/
+Introduction to International Criminal Law	Coursera	2013		21000	1432	6.8	Auto grading only	http://www.cleveland.com/metro/index.ssf/2013/07/case_western_reserve_universit_9.html
+Introduction to Mathematical Thinking	Coursera	2013		58300	3843	6.6	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-1092
+Drugs and the Brain	Coursera	2012		66800	4400	6.6	Auto grading only	http://ata-sci-tech.blogspot.co.uk/2013/02/drugs-and-brain.html
+2.01x Elements of Structures	EdX	2013		12243	814	6.6	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382291
+Maps and the Geospatial Revolution	Coursera	2013		47000	3064	6.5	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-631
+An Introduction to Physical Actor Training	Futurelearn	2014		3456	225	6.5	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+6.002x Circuits and Electronics	EdX	2012		46000	3008	6.5	Auto grading only	http://web.mit.edu/newsoffice/2013/mitx-spring-offerings-0131.html
+Malicious Software and its Underground Economy - Two Sides to Every Story	Coursera	2013		40925	2564	6.3	Auto grading only	http://www.londoninternational.ac.uk/sites/default/files/governance/ltas13/ltas13.3_mooc_statistics.pdf
+English Common Law - Structure and Principles	Coursera	2013		41045	2577	6.3	Auto grading only	http://www.londoninternational.ac.uk/sites/default/files/governance/ltas13/ltas13.3_mooc_statistics.pdf
+Learn to Program - Crafting Quality Code	Coursera	2013		53974	3352	6.2	Auto and peer grading	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf
+8.MReV Mechanics ReView	EdX	2013		16787	1033	6.2	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382297
+The Social Context of Mental Health and Illness	Coursera	2013		23491	1423	6.1	Auto and peer grading	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf
+Listening to World Music	Coursera	2012		36295	2191	6	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-271
+MobiMOOC	Independent	2011		556	32	5.8	Unknown	http://mlearn.bnu.edu.cn/source/ten_outstanding_papers/Exploring%20the%20MOOC%20format%20as%20a%20pedagogical%20approach%20for%20mLearning.pdf
+Data Analysis	Coursera	2013		102000	5500	5.4	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-283
+Begin Programming: Build Your First Mobile Game	Futurelearn	Unknown		10080	544	5.4	Auto grading only	http://www.timeshighereducation.co.uk/news/futurelearn-delighted-at-response-to-first-moocs/2014010.article
+Metadata	Coursera	2013		27000	1418	5.3	Auto grading only	http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10526
+Pattern-Oriented Software Architectures for Concurrent and Networked Software	Coursera	2013		30979	1643	5.3	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-541
+Introduction to Genetics and Evolution	Coursera	2012		33000	1705	5.2	Auto grading only	http://today.duke.edu/node/93914
+Functional Programming	EdX	2014		38029	1968	5.2	Unknown	Personal communication
+PH278x: Human Health and Global Environmental Change	EdX	2013		53340	2745	5.1	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382242
+Solar Energy	EdX	2013		57091	2730	4.8	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+Computational Investing, Part 1	Coursera	2012		53205	2554	4.8	Auto grading only	http://augmentedtrader.wordpress.com/2013/01/06/about-mooc-completion-rates-the-importance-of-investment/
+Mathematical Biostatistics Bootcamp	Coursera	2012		15930	740	4.7	Auto grading only	http://www.washingtonpost.com/blogs/college-inc/post/grades-are-in-for-a-pioneering-free-johns-hopkins-online-class/2012/11/14/1bd60194-2e6b-11e2-89d4-040c9330702a_blog.html
+6.002x Circuits and Electronics	MITx	2012		154763	7157	4.6	Auto grading only	http://www.nytimes.com/2012/07/20/education/edlife/anant-agarwal-discusses-free-online-courses-offered-by-a-harvard-mit-partnership.html?ref=education
+An Introduction to Operations Management	Coursera	Unknown		87000	4000	4.6	Auto grading only	http://coursetalk.org/coursera/an-introduction-to-operations-management
+Computational Investing, Part 1	Coursera	2013		25589	1165	4.6	Auto grading only	http://augmentedtrader.wordpress.com/2013/01/27/mooc-student-demographics/
+Solar Energy	EdX	2014		28564	1292	4.5	Unknown	Personal communication
+Statistics - Making Sense of Data	Coursera	2013		62488	2825	4.5	Auto and peer grading	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf
+6.00x Introduction to Computer Science and Programming	EdX	2013		72920	3305	4.5	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382322
+Greek and Roman Mythology	Coursera	2012		55000	2500	4.5	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-274
+3.091x Introduction to Solid State Chemistry	EdX	2013		12276	542	4.4	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382293
+Surviving Disruptive Technologies	Coursera	2013		16000	700	4.4	Peer grading only	http://campustechnology.com/Articles/2013/09/05/Assessment-Tools-for-MOOCs.aspx?Page=2
+Sewage Water Treatment	EdX	2015		10725	470	4.4	Unknown	Personal communication
+Solving Complex Problems	EdX	2014		32424	1396	4.3	Unknown	Personal communication
+The Human Element: An Essential Online Course Component	Canvas.net	2013		697	30	4.3	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+8.02x Electricity and Magnetism	EdX	2013		41307	1716	4.2	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382328
+E-learning and Digital Cultures	Coursera	2013		42844	1719	4	Peer grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+Next Generation Infrastructures 2	EdX	2014		6233	243	3.9	Unknown	Personal communication
+Aeronautical Engineering	EdX	2014		10328	399	3.9	Unknown	Personal communication
+Calculus One	Coursera	2013		47000	1800	3.8	Auto grading only	http://thelantern.com/2013/08/ohio-state-offers-6-online-courses-general-public-coursera/
+6.002x Circuits and Electronics	EdX	2013		29050	1099	3.8	Auto grading only	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382295
+Responsible Innovation	EdX	2014		10824	396	3.7	Unknown	Personal communication
+Introduction to Aeronautical Engineering	EdX	2014		15820	578	3.7	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+Introduction to Astronomy	Coursera	2012		60000	2141	3.6	Auto grading only	http://hdl.handle.net/10161/6679
+Biobased Products	EdX	2014		9606	348	3.6	Unknown	Personal communication
+Water & climate	EdX	2014		6705	239	3.6	Unknown	Personal communication
+ICT in Primary Education: Transforming children's learning across the curriculum	Coursera	2014		9000	315	3.5	Peer grading only	http://www.lkl.ac.uk/cms/files/jce/reports/anatomy_of_a_mooc_for_teacher_cpd_ucl-ioe.pdf
+Credit Risk Management	EdX	2014		20925	709	3.4	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+Introduction to Sociology	Coursera	2012		40000	1283	3.2	Peer grading only	http://www.nytimes.com/2012/11/20/education/colleges-turn-to-crowd-sourcing-courses.html
+Next Generation Infrastructures	EdX	2014		16091	517	3.2	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+Heroesx: The Ancient Greek Hero	EdX	2013		43563	1400	3.2	Unknown	http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2382246
+Social Psychology	Coursera	2013		200000	8000	3.2	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-865
+The Camera Never Lies	Coursera	2013		47893	1471	3.1	Auto grading only	http://www.londoninternational.ac.uk/sites/default/files/governance/ltas13/ltas13.3_mooc_statistics.pdf
+Neural Networks for Machine Learning	Coursera	2012		49550	1398	2.8	Auto grading only	http://www.ocw.utoronto.ca/wp-content/uploads/2013/08/Open-Utoronto-MOOC-Report-August-2013.pdf
+Creative Programming for Digital Media and Mobile Apps	Coursera	2013		78600	2231	2.8	Auto and peer grading	http://www.londoninternational.ac.uk/sites/default/files/governance/ltas13/ltas13.3_mooc_statistics.pdf
+A Beginner's Guide to Irrational Behaviour	Coursera	2013		142839	3892	2.7	Auto and peer grading	http://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-1/#comment-519
+Drinking Water Treatment	EdX	2014		10543	281	2.7	Unknown	Personal communication
+Human-Computer Interaction (studio track)	Coursera	2012		29105	791	2.7	Auto and peer grading	http://reflectionsandcontemplations.wordpress.com/2012/07/14/review-of-the-coursera-human-computer-interaction-course/
+Bioelectricity - a quantitative approach	Coursera	2012		12000	313	2.6	Auto and peer grading	http://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/6216/Duke_Bioelectricity_MOOC_Fall2012.pdf
+Think Again: How to Reason and Argue	Coursera	2012		226652	5322	2.3	Auto grading only	http://cit.duke.edu/blog/2013/06/preliminary-results-on-dukes-third-coursera-effort-think-again/
+Social Network Analysis	Coursera	2012		61285	1410	2.3	Auto and peer grading	http://moocmoocher.wordpress.com/2012/12/
+Artificial Intelligence Planning	Coursera	2013		29894	654	2.2	Auto grading only	http://www.era.lib.ed.ac.uk/bitstream/1842/6683/1/Edinburgh%20MOOCs%20Report%202013%20%231.pdf
+Principles of Microeconomics	Coursera	2013		35814	739	2.1	Auto and peer grading	https://moocmoocher.wordpress.com/2013/02/13/synthesising-mooc-completion-rates/comment-page-2/#comment-1234
+Technicity	Coursera	2013		21000	400	1.9	Peer grading only	http://thelantern.com/2013/08/ohio-state-offers-6-online-courses-general-public-coursera/
+Introduction to Water Treatment	EdX	2013		29088	545	1.9	Unknown	http://www.emoocs2015.eu/sites/default/files/Papers.pdf
+Generating the Wealth of Nations	Coursera	2013		28922	500	1.7	Peer grading only	http://signsofchaos.blogspot.co.uk/2013/07/an-assessment-of-mooc.html
+Medical Neuroscience	Coursera	2013		44980	756	1.7	Auto and peer grading	http://cit.duke.edu/blog/2013/07/coursera-medical-neuroscience-week-3/
+Writing II - Rhetorical Composing	Coursera	2013		30000	500	1.7	Peer grading only	http://thelantern.com/2013/08/ohio-state-offers-6-online-courses-general-public-coursera/
+Software Defined Networking	Coursera	2013		53000	700	1.3	Auto grading only	https://twitter.com/feamster
+Learning Design for a 21st Century Curriculum (OLDSMOOC)	Independent	2013		2420	30	1.2	Unknown	http://oro.open.ac.uk/37836/
+First-Year Composition 2.0	Coursera	2013		21934	238	1.1	Peer grading only	http://chronicle.com/blogs/wiredcampus/lessons-learned-from-a-freshman-composition-mooc/46337
+Delft Design Guide	EdX	2014		13503	136	1	Unknown	Personal communication
+CS50x - Introduction to Computer Science I	EdX	2012		150349	1388	0.9	Auto grading only	https://blog.cs50.net/2013/05/01/0/
+A History of the World since 1300	Coursera	2012		83000	605	0.7	Peer grading only	http://www.crikey.com.au/2012/12/18/mass-revolution-or-mass-con-universities-and-open-courses/?wpmp_switcher=mobile
